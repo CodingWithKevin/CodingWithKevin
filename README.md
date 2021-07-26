@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingWithKevin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me ...
 
 <!---
